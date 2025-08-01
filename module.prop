@@ -1,0 +1,8 @@
+id=tsp_fix_a022m
+name=Samsung A022M Custom Fixes
+version=v4.0
+versionCode=4
+author=elmendezz
+description=Modificaciones para el Samsung Galaxy A022X, incluyendo TSP fix, deshabilita red restringida, y habilitador de auriculares por cable.
+minApi=28
+minMagisk=20400
